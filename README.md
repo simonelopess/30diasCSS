@@ -13,4 +13,3 @@ Dia 2 - Loader animado
 
 Dia 3 - Mudança de cor de texto quando entre divs 
 
-<img src="Desafios/dia 03/gif/dia03.gif">
