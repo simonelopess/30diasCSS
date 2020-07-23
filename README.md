@@ -7,4 +7,5 @@ Dia 1 - Criando ícones sociais com animação em camadas.
 
 
 Dia 2 - Loader animado 
+
 ![dia02](https://user-images.githubusercontent.com/37448340/87999843-769a7b80-cad2-11ea-9e1a-2958e9c14f76.gif)
