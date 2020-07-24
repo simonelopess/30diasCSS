@@ -13,6 +13,7 @@ Dia 2 - Loader animado
 
 Dia 3 - Mudança de cor de texto quando entre divs 
 
+![dia03] <img src="aula 3/dia3.gif">
 
 
 Dia 4 - Botão com efeito 
