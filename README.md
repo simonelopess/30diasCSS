@@ -13,3 +13,9 @@ Dia 2 - Loader animado
 
 Dia 3 - Mudança de cor de texto quando entre divs 
 
+
+
+Dia 4 - Botão com efeito 
+
+
+![dia 04](https://user-images.githubusercontent.com/37448340/88242961-38819100-cc65-11ea-82b3-b541ff8cb3d7.gif)
