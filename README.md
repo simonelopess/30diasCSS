@@ -15,7 +15,6 @@ Dia 3 - Mudança de cor de texto quando entre divs
 
 ![dia03] <img src="dia 3/dia03.gif">
 
-
 Dia 4 - Botão com efeito 
 
 
