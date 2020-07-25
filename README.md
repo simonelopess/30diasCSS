@@ -29,3 +29,8 @@ Dia 4 - Botão com efeito
 Dia 5 - Efeito Pulsar
 
 ![dia 05](https://user-images.githubusercontent.com/37448340/88354131-4d7a2500-cd36-11ea-800e-eec277f17737.gif)
+
+
+Dia 6 -Efeito lightning text
+
+![dia 06](https://user-images.githubusercontent.com/37448340/88449709-5d216880-ce1f-11ea-924b-18acde214ce9.gif)
